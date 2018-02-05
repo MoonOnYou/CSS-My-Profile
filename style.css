@@ -1,0 +1,42 @@
+body,p,h1,h2,div,ul,li{ margin: 0; padding: 0;}
+li{ list-style: none; }
+a{ color: dimgray; text-decoration: none; }
+/* 초기화*/
+
+body{ background-image: url(images/pinkflowers1.jpg); font-family: 'Libre Baskerville', serif; }
+
+.wrapper{ width: 960px; margin: 0 auto; background-color: aliceblue; border-left: 12px double black; border-right: 12px double black; text-align: center; }
+
+.header{ color: black; padding: 50px 0 70px 0px; }
+.header h1{ font-size: 42px; font-weight: bold;}
+.header p{ font-size: 28px; font-weight: 600 }
+
+.contents{ width:660px; margin: 0 auto; }
+
+.xltext{ font-size: 70px; font-weight: 540; }
+.xltext:hover{ font-size: 72px; font-weight: 560; }/*Name*//*Github*//*Study*/
+.ltext{ font-size: 56px; font-weight: 530; } 
+.ltext:hover{ font-size: 58px; font-weight: 570; }/*E-Mail*//*Project*/
+.stext{ font-size: 50px; font-weight: 510; }
+.stext:hover{ font-size: 52px; font-weight: 550; }/*KakaoTalk*//*FaceBook*/
+
+.name:hover{ color: green; }
+.email:hover{ color: cornflowerblue; }
+.kakao:hover{ color: yellow; }
+.facebook:hover{ color: blue; }
+.github:hover{ color: orange; }
+.projectspan:hover{ color: red; }
+.study:hover{ color: magenta; }
+
+.ppimgbox{ margin: 50px 0; }
+.ppimg{ width: 155px; height: 155px; margin: 10px; padding: 14px; border-radius: 50%; border: 5px outset hotpink; }
+
+.textbox{ font-size: 12px; font-weight: 700; color: gray; line-height: 20px; padding: 0 0 60px 0 ; }
+
+.basicinfobox{ font-size: 20px; line-height: 30px; margin-bottom: 30px; }
+
+.projectbox{ font-size: 20px; line-height: 30px; }
+
+.donediv{ padding: 30px; padding-left: 69px;  background-color: bisque; border-radius: 20px; }
+.donediv.todo{ float: left; }
+.donediv.doing{ float: left; }

@@ -1,0 +1,1 @@
+![홈페이지 화면캡쳐](images/index.png)

@@ -1,0 +1,87 @@
+a:hover, a:active{ color: dimgray; text-decoration: none; }
+/* 기본스타일 리셋하기 */
+
+
+.contents1{
+    width: 630px; height: 500px;
+    margin: 0px 50px;
+}
+.header h1{ font-size: 50;}
+/** basic info **/
+.Section1:hover h2, .Section1:hover h3, .Section1:hover h4{ 
+    color: forestgreen;
+    font-size: 80px;
+}
+.Section1 h2{ 
+    font-size: 79px;
+    float:left;
+}
+.Section1 h3{ 
+    font-size: 45px;
+    margin-left: 30px;
+}
+.Section1 h4{ 
+    font-size: 60px;
+    float:left;
+}
+
+/** my site **/
+.Section2:hover h2, .Section2:hover h3{ 
+    color: blue;
+    font-size: 85px;
+}
+.Section2 h2{ 
+    font-size: 80px;
+    float:left;
+}
+.Section2 h3{ 
+    font-size: 68px;
+    margin-left: 30px;
+    float:left;
+}
+
+/** Done **/
+.Section3:hover h2{ 
+    color: blueviolet;
+    font-size: 72px;
+}
+.Section3 h2{ 
+    font-size: 70px;
+    float:left;
+}
+
+/** Project **/
+.Section4:hover h2{ 
+    color: firebrick;
+    font-size: 62px;
+}
+
+.contents2{
+    margin: 20px 0px 20px 0px;
+}
+.ppimg{
+    width: 130px; height: 130px; margin: 10px;
+    border: 5px solid hotpink; border-radius: 50%;
+}
+.footer1{
+    color: darkgray;
+    padding: 20px;
+}
+.footer1 h5{
+    margin: 20px; float:left; padding-left: 250px;
+}
+.icimg{
+    width: 20px; height: 20px; margin: 20px;
+}
+.basicinfoul{
+    padding-bottom: 20px;
+}
+.basicinfoul li{
+    padding: 10px;
+    font-size: 20px;
+}
+.donediv{
+    background-color: bisque;
+    margin: 20px; border-radius: 20px;
+    text-align: center; float:left;
+}
