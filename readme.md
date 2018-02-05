@@ -1,1 +1,1 @@
-![홈페이지 화면캡쳐](images/index.png)
+![홈페이지 화면캡쳐](https://github.com/MoonOnYou/moon-s_profile/blob/master/images/index.PNG)
